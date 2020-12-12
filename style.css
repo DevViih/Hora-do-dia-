@@ -1,0 +1,42 @@
+body {
+
+  background: #1044DF;
+  font: normal 15pt arial;
+}
+
+
+header {
+
+  color:white;
+  text-align: center;
+  
+}
+div{
+  
+  text-align:center;
+  padding:5px;/* esse comando é pra dar espaço entre as horas e a imagem não vou usar pq descentraliza minha imagem */
+}
+img{
+  width:300px;
+  height: 300px;
+  border-radius:300px;
+}
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 310px;
+  margin: auto;
+  box-shadow: 5px 5px 10px black;
+
+}
+
+footer {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  
+}
+
+#DB58C4
+
